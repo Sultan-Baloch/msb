@@ -1,4 +1,4 @@
-# NASHAHOGAR
+# Wellcome to Msb Tools
 pkg update && pkg upgrade -y
 
 pkg install python -y
@@ -9,10 +9,10 @@ pip2 install bs4
 
 pkg install git
 
-git clone https://github.com/noobboss1/NASHAHOGAR
+git clone https://github.com/Sultan-Baloch/msb
 
-cd NASHAHOGAR
+cd msb
 
 chmod +x *
 
-python2 File.py
+python2 fc.py
